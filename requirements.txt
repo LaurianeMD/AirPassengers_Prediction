@@ -1,4 +1,4 @@
 pandas
 statsmodels
-tensorflow==2.13
+tensorflow==2.7.0
 scikit-learn
