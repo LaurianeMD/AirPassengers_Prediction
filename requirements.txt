@@ -1,0 +1,4 @@
+pandas
+statsmodels
+tensorflow==2.13
+scikit-learn
